@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+1. Hola
+2. No se
+  1. si esto funciona
+  
+* Igual
+* vOY 
+
+- A
+- Probar
+
